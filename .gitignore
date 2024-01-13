@@ -14,14 +14,6 @@ rme
 rme.cfg
 data/user
 
-# exe and dll
-*.dll
-*.exe
-
-# assets
-*.spr
-*.dat
-
 # Visual Studio
 *.MAP
 *.user
