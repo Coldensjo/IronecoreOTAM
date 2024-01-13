@@ -126,7 +126,7 @@
 			<data format="7.55" dat="0x439D5A33" spr="0x439852BE"/>
 		</client>
 
-		<client name="8.00" otb="8.00" visible="true" data_directory="800">
+		<client name="8.00" otb="8.00" visible="true" default="true" data_directory="800">
 			<otbm version="2"/>
 			<extensions from="8.00" to="8.00"/>
 			<data format="7.8" dat="0x467FD7E6" spr="0x467F9E74"/>
@@ -342,7 +342,7 @@
             <data format="10.57" dat="0x4A10" spr="0x59E48E02"/>
 		</client>
 
-		<client name="13.30" otb="13.30" visible="true" default="true" data_directory="1330">
+		<client name="13.30" otb="13.30" visible="true" data_directory="1330">
             <otbm version="3"/>
             <extensions from="8.40" to="13.30"/>
             <data format="10.57" dat="0x4A10" spr="0x59E48E02"/>
